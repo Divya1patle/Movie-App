@@ -14,7 +14,8 @@ font-size: 45px;
 }
 body{
     /* background-color: rgb(92, 80, 84); */
-    background-image: url("../images/bg.jpg");
+/*     background-image: url("../images/bg.jpg"); */
+    background-image: url("https://thumbs.dreamstime.com/b/beautiful-autumn-foliage-background-brunches-falling-tree-leaves-sky-bokeh-98280795.jpg");
     background-repeat: no-repeat;
     background-size: cover;
     /* overflow: hidden; */
