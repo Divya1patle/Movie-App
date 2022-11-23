@@ -14,7 +14,16 @@ font-size: 45px;
 }
 
 body{
-    background-color: rgb(92, 80, 84);
+  
+    /* background-color: rgb(92, 80, 84); */
+    /* background-image: url("../images/bg.jpg"); */
+    /* background-image: url("../images/back.jpg"); */
+    background-image: url(https://img.freepik.com/free-vector/white-abstract-background_23-2148817571.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
+    /* overflow: hidden; */
+    background-attachment: fixed;
+    background-position: center;
 }
 
 
